@@ -14,14 +14,17 @@ Affichez votre horoscope du jour, de la semaine ou du mois pour votre signe astr
   
 2. Configurez le module dans le fichier de configuration `config.js` de votre MagicMirror en ajoutant l'objet de module suivant :
 
-```javascript
-{
-  module: "MMM-FrenchHoroscope",
-  position: "top_left",
-  config: {
-    // Options de configuration
-  }
-}
+
+   ```javascript
+   {
+   module: "MMM-FrenchHoroscope",
+   position: "top_left",
+   config: {
+      selectedSign: 'taureau',
+      updateInterval: 3600000,
+      selectedPeriod: 'jour',
+   }
+   }
 ```
 
 3. Redémarrez votre MagicMirror pour charger le module MMM-FrenchHoroscope.
