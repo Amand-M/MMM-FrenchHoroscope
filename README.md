@@ -1,5 +1,9 @@
 # MMM-FrenchHoroscope
-Affichez votre horoscope du jour, de la semaine ou du mois pour votre signe astrologique.
+
+Show your horoscope of the day, the week or the month. Currently only in French.
+Affichez votre horoscope en français du jour, de la semaine ou du mois pour votre signe astrologique. Utilise l'API AstrooAPI développée par kayoo 123.
+
+https://kayoo123.github.io/astroo-api
 
 ## Capture d'écran
 ![Capture d'écran du module MMM-FrenchHoroscope](screenshot.png)
