@@ -29,6 +29,8 @@ Affichez votre horoscope du jour, de la semaine ou du mois pour votre signe astr
 ## Configuration
 Les options de configuration suivantes sont disponibles pour le module `MMM-FrenchHoroscope` :
 
-- `selectedSign` : Le signe astrologique sélectionné.
-- `updateInterval` : L'intervalle de mise à jour en millisecondes.
-- `selectedPeriod` : La période sélectionnée (jour, hebdomadaire, mensuel).
+| Option              | Description                                                                                                                                                                                     |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `selectedSign`      | Le signe astrologique sélectionné, en français sans majuscule et sans accent. Par défaut : `'taureau'`.                                                                                                                                    |
+| `updateInterval`    | L'intervalle de mise à jour de l'horoscope en millisecondes. Par défaut : `3600000` (1 heure).                                                                                                 |
+| `selectedPeriod`    | La période sélectionnée : `'jour'`, `'hebdomadaire'` ou `'mensuel'`. Par défaut : `'jour'`.                                                                                                    |
