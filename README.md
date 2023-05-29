@@ -10,7 +10,8 @@ Affichez votre horoscope du jour, de la semaine ou du mois pour votre signe astr
    ```sh
    cd ~/MagicMirror/modules
    git clone https://github.com/votre-utilisateur/MMM-FrenchHoroscope.git
-  ```
+   ```
+  
 2. Configurez le module dans le fichier de configuration `config.js` de votre MagicMirror en ajoutant l'objet de module suivant :
 
 ```javascript
