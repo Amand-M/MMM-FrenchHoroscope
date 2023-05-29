@@ -1,0 +1,19 @@
+{
+  "name": "mmm-frenchhoroscope",
+  "version": "1.0.0",
+  "description": "A MagicMirror Module to display the french horoscope.",
+  "main": "MMM-FrenchHoroscope.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amand-M/MMM-FrenchHoroscope.git"
+  },
+  "author": "Amand-M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amand-M/MMM-FrenchHoroscope/issues"
+  },
+  "homepage": "https://github.com/Amand-M/MMM-FrenchHoroscope#readme"
+}
