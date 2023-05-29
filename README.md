@@ -25,7 +25,7 @@ Affichez votre horoscope du jour, de la semaine ou du mois pour votre signe astr
       selectedPeriod: 'jour',
    }
    }
-```
+   ```
 
 3. Redémarrez votre MagicMirror pour charger le module MMM-FrenchHoroscope.
 
